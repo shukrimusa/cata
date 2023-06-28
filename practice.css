@@ -1,0 +1,11 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.box {
+    height: 200px;
+    width: 200px;
+    background-color: antiquewhite;
+    line-height: 30px
+}
