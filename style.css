@@ -305,7 +305,7 @@ body{
     align-items: center;
     width: 100%;
     height: 40vh;
-    background-image: url('images/banner.jpg');
+    background-image: url('images/banner31.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -731,6 +731,10 @@ footer .follow i:hover, footer a:hover {
 }
 
 /* Contact Page */
+#page-header.contact-header {
+    background-image: url('images/contactHeader.jpg');
+    
+}
 #contact-details {
     display: flex;
     align-items: center;
@@ -980,6 +984,7 @@ footer .follow i:hover, footer a:hover {
     #hero {
         height: 70vh;
         padding: 0 80px;
+
        
     }
     #feature {
